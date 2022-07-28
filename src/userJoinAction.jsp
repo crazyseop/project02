@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@ page import="user.UserDTO"%>
-<%@ page import="user.UserDAO"%>
+<%@ page import="src.user.UserDTO"%>
+<%@ page import="src.user.UserDAO"%>
 <%@ page import="java.io.PrintWriter"%>
 <%
 	//사용자가 보낸 데이터를 한글을 사용할 수 있는 형식으로 변환

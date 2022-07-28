@@ -1,3 +1,5 @@
+package src.util;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 

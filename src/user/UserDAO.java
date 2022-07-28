@@ -1,5 +1,9 @@
+package src.user;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
+
+import src.util.DatabaseUtil;
 
 public class UserDAO {
 
