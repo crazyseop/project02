@@ -1,6 +1,5 @@
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import util.DatabaseUtil;
 
 public class UserDAO {
 
